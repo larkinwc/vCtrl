@@ -1,0 +1,120 @@
+Cybersecurity resources:
+Learning: https://pastebin.com/VNTsyNKp
+CTF/Wargames: https://pastebin.com/u2QTfmZn
+News: https://pastebin.com/tDn5qzZE
+Other useful stuff: https://pastebin.com/u21XrVaz
+Essentials Pastebin: https://pastebin.com/UY7RxEqp
+Books: http://www.allitebooks.com/
+Network visualisation: https://dowse.eu/
+Unofficial grsec: https://github.com/minipli/linux-unofficial_grsec/tree/linux-4.9.x-unofficial_grsec
+Security tips in order of difficulty: https://pastebin.com/5XfDX4wL
+Qualys Security Advisory - The Stack Clash: https://www.qualys.com/2017/06/19/stack-clash/stack-clash.txt
+http://boards.4chan.org/g/thread/61062751#p61064761's advice: https://pastebin.com/xRqEW8W7
+Firefox extensions: https://pastebin.com/dinBuXxJ
+TEMPEST attacks against AES: https://www.fox-it.com/nl/wp-content/uploads/sites/12/Tempest_attacks_against_AES.pdf
+Shared thoughts after 6+ years in Pentesting (http://boards.4chan.org/g/thread/61194248#p61211017): https://0x00sec.org/t/shared-thoughts-after-6-years-in-pentesting/2492
+Cybrary: https://www.cybrary.it/
+Awesome Infosec: https://github.com/onlurking/awesome-infosec
+InfoSec and exploitation tool diagram: https://netsec.ws/infosec.svg
+So you want to be a Hacker: https://netsec.ws/?p=468
+The OWASP Mobile Security Testing Guide: https://b-mueller.gitbooks.io/the-owasp-mobile-security-testing-guide/content/
+
+Cryptocurrency:
+Verge:
+Website: https://vergecurrency.com/
+Interview: https://youtu.be/EFXkJjgPlII
+Monero:
+Website: https://getmonero.org/
+
+Anonymity networks:
+I2P: https://geti2p.net/en/
+
+Tox:
+Tuntox - Tox protocol TCP tunnel: https://github.com/gjedeer/tuntox
+ToxBot: https://github.com/JFreegman/ToxBot
+ToxVPN: https://github.com/cleverca22/toxvpn
+
+Cybersecurity videos:
+DEFCON 14: The Making of atlas: Kiddie to Hacker in 5 Sleepless Nights: https://youtu.be/gYOy7CGpPIU
+DEFCON 16: Nmap: Scanning the Internet: https://youtu.be/Hk-21p2m8YY
+
+Cybersecurity news:
+
+https://www.schneier.com/
+https://grsecurity.net/blog.php
+https://isc.sans.edu/
+https://blog.torproject.org/category/tags/security-fixes
+http://resources.infosecinstitute.com/
+http://www.windowsecurity.com/articles-tutorials/
+https://www.sans.org/reading-room/
+https://threatpost.com/
+https://packetstormsecurity.com/
+
+Introduction to cybersecurity:
+
+https://ssd.eff.org/
+    your first steps.
+https://trailofbits.github.io/ctf/index.html
+    introduction to CTFs. even if you never do one, this is a good read.
+https://wiki.installgentoo.com/index.php/Anonymizing_yourself
+   quick and dirty guide to anonymizing yourself.
+https://pastebin.com/raw/5a0y9hsp
+    this is the old, fabled, Paranoid #! security guide. not all of it is up to date, but it is very thorough.
+https://samsymons.com/blog/reverse-engineering-with-radare2-part-1/
+
+Learning resources:
+
+https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
+    absolutely massive collection of free resources for learning programming from beginner to expert level.
+https://www.offensive-security.com/metasploit-unleashed/
+http://www.allitebooks.com/
+http://opensecuritytraining.info/Training.html
+http://www.und.edu/org/crypto/crypto/lanaki.crypt.class/
+
+CTF and wargames:
+
+https://www.pentesterlab.com/
+https://www.mavensecurity.com/resources/web-security-dojo/
+https://exploit-exercises.com/
+http://www.itsecgames.com/
+http://forensicscontest.com/puzzles
+https://pwnable.tw/
+https://io.netgarage.org/
+https://ctftime.org/
+https://www.vulnhub.com/
+https://w3challs.com/challenges/hacking
+https://xss-game.appspot.com/
+http://smashthestack.org/
+http://www.hackertest.net/
+https://www.hackthissite.org/
+https://overthewire.org/wargames/
+https://0x0539.net/
+http://3564020356.org/
+http://pwnable.kr/
+
+Vulnerability management:
+
+https://www.cvedetails.com/
+https://www.exploit-db.com/
+https://www.rapid7.com/db/
+http://mvfjfugdwgc5uwho.onion/
+https://cve.mitre.org/cve/cve.html
+    this site lets you download their CVE list in formats easier to work with.
+
+Cryptography:
+
+https://pqcrypto.org/
+http://www.tandfonline.com/toc/ucry20/current
+
+Penetration testing:
+
+http://ytxmrc3pcbv5464e.onion/files/
+    collection of various ebooks mostly focused on pentesting.
+
+Reverse engineering:
+
+https://beginners.re/
+https://github.com/rpisec/mbe
+http://blog.ijun.org/2009/12/understanding-elf-using-readelf-and.html
+http://ref.x86asm.net/index.html
+    easily-searchable opcode and instruction reference.
